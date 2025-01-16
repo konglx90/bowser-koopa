@@ -27,5 +27,6 @@
     "remark-html": "^16.0.1",
     "tailwindcss": "^3.4.1",
     "typescript": "^5"
-  }
+  },
+  "repository": "git@github.com:konglx90/bowser-koopa.git"
 }
