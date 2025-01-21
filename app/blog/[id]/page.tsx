@@ -49,7 +49,7 @@ export default async function Page({
       <div className="text-gray-600 mb-4">
         <Date dateString={post.date} />
       </div>
-      <div dangerouslySetInnerHTML={{ __html: post.contentHtml }} />
+      <article className='prose' dangerouslySetInnerHTML={{ __html: post.contentHtml }} />
     </main>
   )
 }

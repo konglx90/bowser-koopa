@@ -21,11 +21,4 @@ body {
   font-size: 18px;
 }
 
-main {
-  ul {
-    list-style: unset;
-    margin: 12px;
-    padding: 12px;
-  }
-}
 
